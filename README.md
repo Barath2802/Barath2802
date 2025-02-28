@@ -1,9 +1,8 @@
-# Barath2820
 # Hi there 👋, I'm Barath S P
 
 ### Aspiring Data Analyst | Mechanical Engineer | Data Visualization Enthusiast
 
-I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**, **Statistical Modelling**, and **Data Visualization**. Passionate about transforming complex datasets into actionable business insights. I have hands-on experience working with various datasets and building dashboards to help decision-making.
+I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**, **Statistical Modelling**, and **Data Visualization**. Passionate about transforming complex datasets into actionable business insights.
 
 ---
 
@@ -36,7 +35,6 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/barath-s-p) | [GitHub](https://github.com/Barath2802) | [Email](mailto:barathsriram2000@gmail.com)
 
-
-
 ---
+
 "Data is the new oil, but insights are the fuel that powers decision-making."
