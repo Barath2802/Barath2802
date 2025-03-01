@@ -24,6 +24,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 | Employee Absenteeism Analysis        | Machine Learning | Forecasting employee absenteeism      |
 | Unlocking Automotive Data Trends     | Python, Tableau  | Visualizing customer trends           |
 | Automobile Market Analysis           | Excel           | Trend analysis for better forecasts   |
+| Data-Driven Analysis                 | SQL             | Optimised Large Query Datasets        |
 
 ---
 
