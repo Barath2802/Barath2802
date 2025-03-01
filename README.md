@@ -50,7 +50,6 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 
 --- 
 
-
 "Data is the new oil, but insights are the fuel that powers decision-making."
 ```
 
