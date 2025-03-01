@@ -46,7 +46,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/barath-s-p-30325626b) | [GitHub](https://github.com/Barath2802) | [Email](mailto:barathsriram2000@gmail.com)
+[Email](mailto:barathsriram2000@gmail.com)
 
 --- 
 
