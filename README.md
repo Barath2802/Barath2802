@@ -32,7 +32,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 - AutoCAD (I3 CADD Technologies)
 
 ---
-## Education
+## 🎓 Education
 - Bachelor of Engineering in Mechanical Engineering (2020-2024)  
   Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Avadi  
   Academic Performance: 81% (No History of Arrears, First Class)
