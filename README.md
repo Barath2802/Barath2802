@@ -20,7 +20,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 ### 📊 Key Projects
 | Project Name                          | Tools Used       | Description                           |
 |----------------------------------------|-----------------|---------------------------------------|
-| Unleashing Insights from Football Data | Python, SQL, Tableau | Predicting outcomes from football data |
+| Unleashing Insights from Football Data | Python, SQL, Tableau,Machine Learning| Predicting outcomes from football data |
 | Employee Absenteeism Analysis        | Machine Learning | Forecasting employee absenteeism      |
 | Unlocking Automotive Data Trends     | Python, Tableau  | Visualizing customer trends           |
 | Automobile Market Analysis           | Excel           | Trend analysis for better forecasts   |
