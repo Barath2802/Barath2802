@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst | Mechanical Engineer | Data Visualization Enthusiast
 
-I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**, **Statistical Modelling**, and **Data Visualization**. Passionate about transforming complex datasets into actionable business insights. I have hands-on experience working with various datasets and building dashboards to help decision-making.
+I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**, **Statistical Modelling**, and **Data Visualization**. Passionate about transforming complex datasets into actionable business insights. I have an  experience working with various datasets and building dashboards to help decision-making .
 
 
 ---
@@ -43,11 +43,13 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 - Graduate Trainee at ZF Commercial Vehicle Control Systems India Limited  
   Department: Surface Protection  
   Duration: Jan 2024 - May 2024
+• My work in the Surface Protection Department, focusing on safeguarding materials from corrosion, wear, and environmental damage.
+• My role involves evaluating surfaces, selecting and applying protective coatings, and conducting quality checks to ensure durability.
 
 ---
 
 ### 📫 Connect with Me
-[Email](mailto:barathsriram2000@gmail.com)
+[Email](mailto:barathsriram2000@gmail.com) [LinkedIn Profile](www.linkedin.com/in/barath-s-p-)
 
 --- 
 
