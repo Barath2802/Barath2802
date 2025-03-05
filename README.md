@@ -2,6 +2,8 @@
 
 ### Aspiring Data Analyst | Mechanical Engineer | Data Visualization Enthusiast
 
+ 📧 barathsriram2000@gmail.com | 📍 Chennai
+
 I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**, **Statistical Modelling**, and **Data Visualization**. Passionate about transforming complex datasets into actionable business insights. I have an  experience working with various datasets and building dashboards to help decision-making .
 
 
@@ -49,11 +51,6 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 * My role involves evaluating surfaces, selecting and applying protective coatings, and conducting quality checks to ensure durability.
 
 ---
-
-### 📫 Connect with Me
-[Email](mailto:barathsriram2000@gmail.com) [LinkedIn Profile](www.linkedin.com/in/barath-s-p-)
-
---- 
 
 "Data is the new oil, but insights are the fuel that powers decision-making."
 ```
