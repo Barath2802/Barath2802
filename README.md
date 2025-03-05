@@ -43,6 +43,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 - Graduate Trainee at ZF Commercial Vehicle Control Systems India Limited  
   Department: Surface Protection  
   Duration: Jan 2024 - May 2024
+  
 • My work in the Surface Protection Department, focusing on safeguarding materials from corrosion, wear, and environmental damage.
 • My role involves evaluating surfaces, selecting and applying protective coatings, and conducting quality checks to ensure durability.
 
