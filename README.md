@@ -32,7 +32,9 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 
 ### 🎯 Certifications
 - Professional Program in Data Science with Machine Learning Essentials (NIIT)
-- AutoCAD (I3 CADD Technologies)
+- Introduction to SQL (Simplilearn)
+- SQL Basics & Intermediate (HackerRank)
+- Learning Python (Infosys SpringBoard)
 
 ---
 ## 🎓 Education
