@@ -49,8 +49,6 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
   My work in the Surface Protection Department, focusing on safeguarding materials from corrosion, wear, and environmental damage.
   My role involves evaluating surfaces, selecting and applying protective coatings, and conducting quality checks to ensure durability.
 
----
----
 ## 💼 Internship Experience
 
 ### 📊 Data Analytics Intern – Resileo Labs LLP (June 2025 – Present)
