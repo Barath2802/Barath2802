@@ -43,11 +43,11 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
   Academic Performance: 81% (No History of Arrears, First Class)
 
 - Professional Program In Data Science With Machine Learning Essentials (Aug'24 -  Feb '25)
-  -- National Institute of Information Technology
+  National Institute of Information Technology
 
 ---
 ## Internship Experience
-- 📊 Graduate Trainee -ZF Commercial Vehicle Control Systems India Limited  (January 2024 -  May 2024)
+ 📊 Graduate Trainee -ZF Commercial Vehicle Control Systems India Limited  (January 2024 -  May 2024)
   Department: Surface Protection  
  📍 Chennai, India
 
