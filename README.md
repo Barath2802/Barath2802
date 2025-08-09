@@ -42,15 +42,15 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 
 ---
 ## Internship Experience
-- Graduate Trainee at ZF Commercial Vehicle Control Systems India Limited  
+- 📊 Graduate Trainee -ZF Commercial Vehicle Control Systems India Limited  (January 2024 -  May 2024)
   Department: Surface Protection  
-  Duration: Jan 2024 - May 2024
+ 📍 Chennai, India
 
   My work in the Surface Protection Department, focusing on safeguarding materials from corrosion, wear, and environmental damage.
   My role involves evaluating surfaces, selecting and applying protective coatings, and conducting quality checks to ensure durability.
 
 
-### 📊 Data Analytics Intern – Resileo Labs LLP (June 2025 – Present)
+### 📊 Data Analytics Intern – Resileo Labs LLP (June 2025 – August 2025)
 📍 Chennai, India
 
 - 🧹 Gained hands-on experience in **data cleaning**, **preprocessing**, and **visualization** using **Python (Pandas, Matplotlib, Seaborn)** and **SQL**.
@@ -60,7 +60,6 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 - 🧠 Created visual reports based on guided and self-formulated analytical questions, improving **problem-solving** and **logical reasoning**.
 - 🧑‍🏫 Incorporated mentor feedback to enhance **accuracy** and **clarity** of visualizations.
 - ✅ Addressed data quality issues like formatting errors, missing values, and inconsistencies to ensure **reliable analysis**.
----
 
 ---
 "Data is the new oil, but insights are the fuel that powers decision-making."
