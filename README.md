@@ -53,14 +53,17 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 ### 📊 Data Analytics Intern – Resileo Labs LLP (June 2025 – August 2025)
 📍 Chennai, India
 
--🧹 Gained hands-on experience in **data cleaning**, **preprocessing**, and **visualization** using **Python (Pandas, Matplotlib, Seaborn)** and **SQL**.
--📊 Analyzed real-world datasets including:
--✈️ Bureau of Transportation Statistics (**aviation data**)
--🏫 Educational institution data (**school performance data**)
--🧠 Created visual reports based on guided and self-formulated analytical questions, improving **problem-solving** and **logical reasoning**.
--🧑‍🏫 Incorporated mentor feedback to enhance **accuracy** and **clarity** of visualizations.
--✅ Addressed data quality issues like formatting errors, missing values, and inconsistencies to ensure **reliable analysis**.
+💡 Data Enthusiast | Python & SQL | Data Visualization
 
+🧹 Experienced in data cleaning, preprocessing, and visualization using Python (Pandas, Matplotlib, Seaborn) and SQL.
+
+📊 Worked with real-world datasets including ✈️ aviation data and 🏫 school performance data.
+
+🧠 Developed visual reports from guided and self-designed analytical questions, strengthening problem-solving and logical reasoning.
+
+🧑‍🏫 Applied mentor feedback to enhance accuracy and clarity of visualizations.
+
+✅ Resolved data quality issues like formatting errors, missing values, and inconsistencies to ensure reliable insights.
 ---
 "Data is the new oil, but insights are the fuel that powers decision-making."
 ```
