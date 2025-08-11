@@ -51,6 +51,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 
 
 ### 📊 Data Analytics Intern – Resileo Labs LLP (June 2025 – August 2025)
+
 📍 Chennai, India
 
 💡 Data Enthusiast | Python & SQL | Data Visualization
