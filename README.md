@@ -64,6 +64,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 🧑‍🏫 Applied mentor feedback to enhance accuracy and clarity of visualizations.
 
 ✅ Resolved data quality issues like formatting errors, missing values, and inconsistencies to ensure reliable insights.
+
 ---
 "Data is the new oil, but insights are the fuel that powers decision-making."
 ```
