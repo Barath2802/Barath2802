@@ -44,6 +44,7 @@ I'm an enthusiastic Data Analyst with a strong foundation in **Data Analytics**,
 ---
 ## Internship Experience
  📊 Graduate Trainee -ZF Commercial Vehicle Control Systems India Limited  (January 2024 -  May 2024)
+ 
  📍 Chennai, India
 
  - My work in the Surface Protection Department, focusing on safeguarding materials from corrosion, wear, and environmental damage.
